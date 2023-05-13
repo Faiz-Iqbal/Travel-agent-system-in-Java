@@ -50,3 +50,9 @@ Note that when you copy-paste these commands, you will need to edit the text lin
 $ source ~/. profile
 ```
 
+## Using the program
+### Part A
+Program FlyingPlannerMainPartA (containing a single main method) to represent the following direct flights with associated costs as a graph. Assume that flights operate in both directions with the same cost, e.g. Edinburgh to Heathrow denotes a pair of flights, one from Edinburgh to Heathrow, and another from Heathrow to Edinburgh.
+
+### Part B
+Program FlyingPlannerPartBC (containing a single main method) which makes use of the class FlyingPlanner (this is the central class of the program)
