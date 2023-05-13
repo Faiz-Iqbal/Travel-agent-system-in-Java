@@ -58,3 +58,6 @@ Program FlyingPlannerMainPartA (containing a single main method) to represent th
 Program FlyingPlannerPartBC (containing a single main method) which makes use of the class FlyingPlanner (this is the central class of the program)
 
 - Please enter airport codes eg: ```DXB``` and not airport names when using the program.
+
+## Dataset
+The dataset is composed of a list of airports (indexed by a three character code), and a list of flights (indexed by a flight code). The list of airports and flights originated from the Open Flights https://openflights.org/ open source project. In addition to these initial lists the following information were automatically and randomly generated: the flight numbers, departure and arrival times, cost.
