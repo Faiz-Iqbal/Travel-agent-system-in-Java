@@ -56,3 +56,5 @@ Program FlyingPlannerMainPartA (containing a single main method) to represent th
 
 ### Part B
 Program FlyingPlannerPartBC (containing a single main method) which makes use of the class FlyingPlanner (this is the central class of the program)
+
+- Please enter airport codes eg: ```DXB``` and not airport names when using the program.
