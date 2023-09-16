@@ -2,7 +2,7 @@
 A system for a travel agency which uses a graph library to represent airline data, and supports searching based on criteria of the travel agent sets.
 
 ## Prerequisite Libraries 
-### - JGraphT
+### - JGraphT ```v1.3.0```
 JGraphT is a Java library of graph theory data structures and algorithms.
 ```v1.3.0```
 <br><br>
