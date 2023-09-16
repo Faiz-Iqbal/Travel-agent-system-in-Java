@@ -1,6 +1,5 @@
 # Travel-agent-system-in-Java
 A system for a travel agency which uses a graph library to represent airline data, and supports searching based on criteria of the travel agent sets.
-This Project was part of a coursework for Data Structures & Algorithms
 
 ## Prerequisite Libraries 
 ### - JGraphT
